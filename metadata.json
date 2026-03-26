@@ -5,10 +5,3 @@
   "image": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ton/assets/EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs/logo.png",
   "description": "Tether USD on TON"
 }
-```
-
-שים לב — `"6"` במירכאות, לא `6` כמספר.
-
-שמור (**Commit changes**) ואחר כך נסה שוב:
-```
-https://app.tonkeeper.com/jetton/EQDAkKmA2IfIZUAd98maNUs0ioRxK_L0ZoJYkc8zLIpUkW0j
